@@ -1,0 +1,25 @@
+{
+  "name": "catch.cc",
+  "version": "1.5.4",
+  "description": "A modern, C++-native, header-only, framework for unit-tests, TDD and BDD. npm distribution.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anvaka/Catch.git"
+  },
+  "keywords": [
+    "c++",
+    "test"
+  ],
+  "license": "BSL-1.0",
+  "bugs": {
+    "url": "https://github.com/anvaka/Catch/issues"
+  },
+  "homepage": "https://github.com/anvaka/Catch#readme"
+}
